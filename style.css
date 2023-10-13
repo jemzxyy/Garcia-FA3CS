@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://scontent.fdvo2-1.fna.fbcdn.net/v/t1.15752-9/387458197_1543697696436591_3628263655393561233_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2   =AeFYwQAPHzhOaSrgG3uRD3HXEpgbFWc4NvESmBsVZzg28W4xhKPGSCG02BENPrZHhIyTbmHTTFocPUB3QNMVlt8E&_nc_ohc=yO5HKACEf3sAX9bBw0y&_nc_pt=1&_nc_ht=scontent.fdvo2-1.fna&oh=03_AdRAkXBN51Wyiw9lWBwSNR2FwF9cZyreDg1qf8TrHKvo6w&oe=65506959");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20%;
+ 
+}
+
+h1 {
+    text-align: center;
+    background-color: #8080ff;
+    font-family: verdana,serif;
+    border: 2px dotted blue;
+    padding: 10px 15px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: justify;
+    background-color: hsl(200, 100%, 75%);
+    font-style: italic;
+    padding: 20px;
+    border: 3px solid black; 
+    border-top-style: double;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: dashed;
+    width: 500px;
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(87, 87, 240);
+    margin: 2px 5px;
+}
